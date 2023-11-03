@@ -2,46 +2,49 @@
 Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organizar melhor os meus README, mas depois de algumas pesquisas eu descobri como fazer isso, e para que você não sofra como eu, decidi fazer essa pequena documentação para ti guiar a personalizar os seu README. Espero que eu possa te ajudar.
 
 
-# Como adicionar títulos
+## 1. Como adicionar títulos
 Os títos são categorizados em três categorias, **Primário**, **Secundário** e **Terceário**. Para usar os títulos você deve adicionar um cardinal/jogo da velha `#` no início da linha seguido por um espaço.
 
-Exemplos:
-- **Primário**: 
-Apenas um cardinal/jogo da velha `#`.
+- **a) Primário**:
+  
+Apenas um cardinal/jogo da velha `#`
 
-Demo
+Escrita:
 ```
 # Seu título aqui
 ```
-Resultado
+Resultado:
 # Seu título aqui
 
-- **Secundário**: 
-Apenas dois cardinal/jogo da velha `##`.
+- **b) Secundário**:
+  
+Apenas dois cardinal/jogo da velha `##`
 
-Demo
+Escrita:
 ```
 ## Seu título aqui
 ```
-Resultado
+Resultado:
 ## Seu título aqui
 
-- **Secundário**: 
-Apenas três cardinal/jogo da velha `###`.
+- **c) Secundário**:
+  
+Apenas três cardinal/jogo da velha `###`
 
-Demo
+Escrita:
 ```
 ### Seu título aqui
 ```
-Resultado
+Resultado:
 ### Seu título aqui
+
 
 > [!NOTE]
-> Repare que no o número de cardinal/jogo da velha define o tamanho/importância do título, quanto mais cardinal/jogo da velha tiver o título será menenor ou menos inportante.
+> Repare que o número de cardinais/jogo da velha define o tamanho/importância do título, quanto mais cardinal/jogo da velha tiver o título será menenor ou menos inportante.
 
 <hr>
 
-# Como formatar textos
+## 2. Como formatar textos
 | Estilo  |     Código           |          Escrita         |        Resultado          |
 |  :---:  |      :---:           |           :---:          |        :---:         |
 | Negrito |  `** **` ou `__ __`  |  `**Texto em Negrito**`  | **Texto em Negrito** |
@@ -63,20 +66,24 @@ Exemplo
 
 <hr>
 
-# Listas
-Para fazer a uma lista de ítens você pode usar os seguintes sinais: `-`, `*` ou `+`.
+## 3. Listas
+**a) Lista Normal**
 
-Escrita
+Para fazer a uma lista de ítens você pode usar os seguintes sinais: hífen `-` , asterisco  `*` ou sinal de mais `+`.
+
+Escrita:
 ```
 - Hélio
 * Carlitos
 + António
 ```
 
-Resultado
+Resultado:
 - Hélio
 * Carlitos
 + António
+  
+**b) Lista Ordenada**
 
 Para ordenar a lista, coloque um número na frente de cada linha.
 
@@ -87,65 +94,87 @@ Escrita:
 1. António
 ```
 
-Resultado
+Resultado:
 1. Hélio
 1. Carlitos
 1. António
 
-## Listas aninhadas
-1. First list item
-   - First nested list item
-     - Second nested list item
-    
-## Listas de tarefas
-Para criar uma lista de tarefas, coloque um hífen e um espaço seguidos de [ ] antes dos itens de lista. Para marcar uma tarefa como concluída, use [x].
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+**c) Listas aninhadas**
 
-Se a descrição de um item da lista de tarefas começar com parênteses, você precisará fazer escape dele com \:
+Escrita:
+```
+1. Nomes
+   - Hélio
+     - Carlitos
+       - António
+```
+> [!NOTE]
+> Respeitando as identções.
+
+Resultado:
+1. Nomes
+   - Hélio
+     - Carlitos
+       - António
+    
+**d) Listas de tarefas**
+
+Para criar uma lista de tarefas, coloque um hífen e um espaço seguidos de [ ] antes dos itens de lista. Para marcar uma tarefa como concluída, use [x].
+
+Escrita:
+```
+- [x] Pão
+- [ ] Alface
+- [ ] Tomate :tada:
+```
+
+Resultado:
+- [x] Pão
+- [ ] Alface
+- [ ] Tomate :tada:
+
+
+Se a descrição de um item da lista de tarefas começar com parênteses (carater especial), você precisará fazer escape dele com 
+
+Escrita:
+```
+- [ ] \(Optional) Open a followup issue
+```
+
+Resultado:
+
 - [ ] \(Optional) Open a followup issue
 
 
-
 <hr>
 
+<span id='links'></span>
 
+## 4. Como Adicionar Links
 
-<hr>
+Para adicionar um link você deve adicionar o texto do link entre parenteses rectos e o link entre parenteses curvos.
 
+Escrita:
+```
+[GitHub Hélio Carlitos](https://github.com/heliocarlitos/)
+```
 
+Resulatado:
 
-<hr>
+[GitHub Hélio Carlitos](https://github.com/heliocarlitos/)
 
+Você também pode adicionar um texto antes do texto do link.
 
+Escrita:
+```
+Para acessar o meu perfil, click [aqui](https://github.com/heliocarlitos/)
+```
 
+Resultado:
 
-<hr>
+Para acessar o meu perfil, click [aqui](https://github.com/heliocarlitos/)
 
-
-
-<hr>
-
-
-
-<hr>
-
-
-
-<hr>
-
-
-
-
-<hr>
-
-
-
-<hr>
-
-
-
+<!--
 <hr>
 
 
@@ -180,7 +209,6 @@ Se a descrição de um item da lista de tarefas começar com parênteses, você 
 
 
 
-
 <hr>
 
 
@@ -212,6 +240,7 @@ Se a descrição de um item da lista de tarefas começar com parênteses, você 
 
 
 <hr>
+
 
 
 
@@ -314,3 +343,39 @@ Se a descrição de um item da lista de tarefas começar com parênteses, você 
 
 
 <hr>
+
+
+
+<hr>
+
+
+
+<hr>
+
+
+
+
+<hr>
+
+
+
+<hr>
+
+
+
+<hr>
+
+
+
+<hr>
+
+
+
+
+<hr>
+
+
+
+<hr>
+-->
+
