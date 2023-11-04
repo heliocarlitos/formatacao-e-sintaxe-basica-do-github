@@ -4,7 +4,7 @@ Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organiza
 <hr>
 
 ## Índice
-<a href='1.-como-adicionar-titulo'>1. Como adicionar títulos</a>
+<a href='#1-como-adicionar-t%C3%ADtulos'>1. Como adicionar títulos</a>
 
 
 ## 1. Como adicionar títulos
