@@ -1,6 +1,12 @@
 # Introdução
 Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organizar melhor os meus README, mas depois de algumas pesquisas eu descobri como fazer isso, e para que você não sofra como eu, decidi fazer essa pequena documentação para ti guiar a personalizar os seu README. Espero que eu possa te ajudar.
 
+<hr>
+
+## Índice
+<a href='1.-como-adicionar-titulo'>1. Como adicionar títulos</a>
+
+
 ## 1. Como adicionar títulos
 Os títos são categorizados em três categorias, **Primário**, **Secundário** e **Terceário**. Para usar os títulos você deve adicionar um cardinal/jogo da velha `#` no início da linha seguido por um espaço.
 
