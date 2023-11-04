@@ -5,7 +5,7 @@ Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organiza
 
 <details>
 
-## <summary> Índice </summary>
+<summary> Índice </summary> 
 
 <a href='#1-como-adicionar-t%C3%ADtulos'>1. Como adicionar títulos</a>
 
@@ -33,7 +33,7 @@ Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organiza
 
 </details>
 
-
+<hr>
 
 
 
