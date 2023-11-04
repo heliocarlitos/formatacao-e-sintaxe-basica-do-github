@@ -526,25 +526,4 @@ Você também pode adicionar uma imagem ou um bloco de código.
 
 <hr>
 
-## 13.
-
-Escrita:
-
-```
-
-```
-
-Resultado:
-
-<hr>
-
-
-## 14.
-
-Escrita:
-
-```
-
-```
-
-Resultado:
+<a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
