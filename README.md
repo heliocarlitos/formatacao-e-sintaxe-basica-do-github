@@ -60,7 +60,7 @@ Resultado:
 
 <hr>
 
-## 2. Como formatar textos
+## 2. Como Formatar Fextos
 
 | Estilo  |     Código           |          Escrita         |        Resultado          |
 |  :---:  |      :---:           |           :---:          |        :---:         |
@@ -83,7 +83,7 @@ Exemplo
 
 <hr>
 
-## 3. Listas
+## 3. Como Adicionar Listas
 **a) Lista Normal**
 
 Para fazer a uma lista de ítens você pode usar os seguintes sinais: hífen `-` , asterisco  `*` ou sinal de mais `+`.
@@ -134,7 +134,7 @@ Resultado:
      - Carlitos
        - António
     
-**d) Listas de tarefas**
+**d) Lista de tarefas**
 
 Para criar uma lista de tarefas, coloque um hífen e um espaço seguidos de [ ] antes dos itens de lista. Para marcar uma tarefa como concluída, use [x].
 
@@ -194,7 +194,7 @@ Para acessar o meu perfil, click [aqui](https://github.com/heliocarlitos/)
 
 <hr>
 
-## 5. Como adicionar uma imagem adequada para os visitantes
+## 5. Como Adicionar Uma Imagem Adequada Para os Visitantes
 
 Você pode incluir imagens em sua comunicação no GitHub. Aqui, você adicionará uma imagem responsiva, como uma faixa, à parte superior do LEIAME do perfil.
 
