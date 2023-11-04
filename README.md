@@ -61,7 +61,7 @@ Resultado:
 
 <hr>
 
-## 2. Como Formatar Fextos
+## 2. Como Formatar Textos
 
 | Estilo  |     Código           |          Escrita         |        Resultado          |
 |  :---:  |      :---:           |           :---:          |        :---:         |
