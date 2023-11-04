@@ -228,7 +228,7 @@ Isso não é uma nota.
 <hr>
 
 ## 7. Como Citar Código
-Para citar um código você deve adicionar o código entre duas crases (` `).
+Para citar um código você deve adicionar o código entre duas crases ( `` ).
 
 Escrita:
 
