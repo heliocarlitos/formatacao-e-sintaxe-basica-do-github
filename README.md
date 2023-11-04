@@ -526,4 +526,4 @@ Você também pode adicionar uma imagem ou um bloco de código.
 
 <hr>
 
-<a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a> | <a href='#6-como-adicionar-texto-de-refer%C3%AAncia'>Ir ao meio</a>
+<a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a> | <a href='#6-como-adicionar-texto-de-refer%C3%AAncia'>Ir ao meio</a> | <a href='https://docs.github.com/' taget='_blanck'>Fonte da Documentação</a>
