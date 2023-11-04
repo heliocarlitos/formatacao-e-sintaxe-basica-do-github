@@ -3,21 +3,38 @@ Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organiza
 
 <hr>
 
-## Índice
+<details>
+
+## <summary> Índice </summary>
+
 <a href='#1-como-adicionar-t%C3%ADtulos'>1. Como adicionar títulos</a>
 
 <a href='#2-como-formatar-textos'>2. Como formatar textos</a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
-<a href=''></a>
+
+<a href='#3-como-adicionar-listas'>3. Como Adicionar Listas</a>
+
+<a href='#4-como-adicionar-links'>4. Como Adicionar Links</a>
+
+<a href='#5-como-adicionar-uma-imagem-adequada-para-os-visitantes'>5. Como Adicionar Uma Imagem Adequada Para os Visitantes</a>
+
+<a href='#6-como-adicionar-texto-de-refer%C3%AAncia'>6. Como adicionar Texto de Referência</a>
+
+<a href='#7-como-citar-c%C3%B3digo'>7. Como Citar Código</a>
+
+<a href='#8-como-adicionar-c%C3%B3digo'>8. Como Adicionar Código</a>
+
+<a href='#9-como-adicionar-alertas-ou-notas'>9. Como Adicionar Alertas ou Notas</a>
+
+<a href='=#10-como-ocultar-o-conte%C3%BAdo-com-coment%C3%A1rios'>10. Como Ocultar o conteúdo com comentários</a>
+
+<a href='#11-como-criar-uma-tabela'>11. Como Criar Uma Tabela</a>
+
+<a href='#12-como-adicionar-uma-sec%C3%A7%C3%A3o-recolhida'>12. Como Adicionar Uma Secção Recolhida</a>
+
+</details>
+
+
+
 
 
 ## 1. Como adicionar títulos
