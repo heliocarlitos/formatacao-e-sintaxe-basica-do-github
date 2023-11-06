@@ -29,6 +29,8 @@ Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organiza
 
 <a href='#12-como-adicionar-uma-sec%C3%A7%C3%A3o-recolhida'>12. Como Adicionar Uma Secção Recolhida</a>
 
+<a href='#13-como-adicionar-bot%C3%B5es-de-linguagens'>13. Como Adicionar Botões de Linguagens</a>
+
 </details>
 
 <hr>
@@ -521,6 +523,299 @@ Você também pode adicionar uma imagem ou um bloco de código.
 ```
 
 </details>
+
+<hr>
+
+## 13. Como adicionar Botões de Linguagens
+
+**1. Asana**
+
+Escrita:
+
+```
+![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
+
+**2. Csharp**
+
+Escrita:
+
+```
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+
+**3. CSS**
+
+Escrita:
+
+```
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+**4. Cypress**
+
+Escrita:
+
+```
+![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+```
+
+Resulatado:
+
+![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+
+**5. Django**
+
+Escrita:
+
+```
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+
+**6. Flask**
+
+Escrita:
+
+```
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+
+**7. GCP**
+
+Escrita:
+
+```
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+
+**8. Git**
+
+Escrita:
+
+```
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+**9. Graphql**
+
+Escrita:
+
+```
+![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+
+**10. HTML**
+
+Escrita:
+
+```
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+
+**11. JavaScript**
+
+Escrita:
+
+```
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+```
+
+Resulatado:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
+**12. Kubernetes**
+
+Escrita:
+
+```
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+
+**13. MongoDB**
+
+Escrita:
+
+```
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+**14. Notion**
+
+Escrita:
+
+```
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+**15. Postgresql**
+
+Escrita:
+
+```
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+
+**16. Python**
+
+Escrita:
+
+```
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+**17. R**
+
+Escrita:
+
+```
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+
+**18. RabbitMQ**
+
+Escrita:
+
+```
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+
+**19. React.js**
+
+Escrita:
+
+```
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+```
+
+Resulatado:
+
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
+**20. Slack**
+
+Escrita:
+
+```
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+
+**21. Typescript**
+
+Escrita:
+
+```
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+**22. Ubuntu**
+
+Escrita:
+
+```
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+**23. Unity**
+
+Escrita:
+
+```
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+
+**24. VScode**
+
+Escrita:
+
+```
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+```
+
+Resulatado:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 <hr>
 
