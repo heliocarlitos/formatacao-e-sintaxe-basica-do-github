@@ -817,6 +817,9 @@ Resulatado:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
+
+## [Ver mais...](https://github.com/hcadeveloper/markdown-badges/)
+
 <hr>
 
 <p align='center'>
