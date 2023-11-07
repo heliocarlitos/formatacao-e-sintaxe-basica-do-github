@@ -33,9 +33,16 @@ Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organiza
 
 </details>
 
-<hr>
 
+##
 
+<div align='center'>
+
+### <a href='#' id='fundo'>Ir ao Fundo</a>
+  
+</div>
+
+##
 
 ## 1. Como adicionar títulos
 Os títos são categorizados em três categorias, **Primário**, **Secundário** e **Terceário**. Para usar os títulos você deve adicionar um cardinal/jogo da velha `#` no início da linha seguido por um espaço.
@@ -146,7 +153,16 @@ Este é um exemplo de um texto alinhado à Direita
 > [!NOTE]
 > Lembrando que você pode alinhar qualquer tipo de conteúdo (textos, imagens e GIF) desde que estejam dentro da `<div> </div>` e use a propriedade `align` com o seu respectivo valor `left`
 , `center` ou `right`
-<hr>
+
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 2. Como Formatar Textos
 
@@ -169,7 +185,15 @@ Exemplo
 | Itálico e Riscado |  `* *` e `~~ ~~`     |  `*~~Texto em Itálico e Riscado~~*`   | *~~Texto em Itálico e Riscado~~*   |
 | Riscado e Negrito |  `~~ ~~` e `** **`   |  `~~**Texto Riscado e Negrito**~~*`   | ~~**Texto Riscado e Negrito**~~*   |
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 3. Como Adicionar Listas
 **a) Lista Normal**
@@ -251,7 +275,15 @@ Resultado:
 - [ ] \(Optional) Open a followup issue
 
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 <span id='links'></span>
 
@@ -279,8 +311,15 @@ Resultado:
 
 Para acessar o meu perfil, click [aqui](https://github.com/heliocarlitos/)
 
+##
 
-<hr>
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 5. Como Adicionar Uma Imagem Adequada Para os Visitantes
 
@@ -314,7 +353,15 @@ Resultado:
     <img alt="HCA LOGO" src="https://drive.google.com/uc?export=download&id=1X5s5-XjKGK_TaEtCZKUpjzDG1vlhx45h">
 </picture>
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 6. Como adicionar Texto de Referência
 Você pode citar um texto com `>` .
@@ -331,7 +378,15 @@ Resultado:
 Isso não é uma nota.
 > Seu texto de citação aqui.
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 7. Como Citar Código
 Para citar um código você deve adicionar o código entre duas crases ( `` ).
@@ -345,7 +400,15 @@ Resultado:
 
 Este é um exemplo de um código citado `<body></body>` essa é uma tag do HTML.
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 8. Como Adicionar Código
 
@@ -421,7 +484,15 @@ Resultado:
 </html>
 ```
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 9. Como Adicionar Alertas ou Notas
 
@@ -462,8 +533,15 @@ Resultado:
 > [!WARNING]
 > Adiciona aqui o seu texto de aviso informando alguma coisa.
 
-<hr>
+##
 
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 10. Como Ocultar o conteúdo com comentários
 
@@ -481,7 +559,15 @@ Esta palavra <!-- não --> será oculta o código <!--- HTML --> também será o
 
 > Nota que a palavra "não" e "HTML" foram ocultos.
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 11. Como Criar Uma Tabela
 
@@ -545,8 +631,15 @@ Resultado:
 |            Texto           |         Texto      |           Texto           |
 |            Texto           |         Texto      |           Texto           |
 
-<hr>
+##
 
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 12. Como Adicionar Uma Secção Recolhida
 
@@ -594,7 +687,15 @@ Você também pode adicionar uma imagem ou um bloco de código.
 
 </details>
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 ## 13. Como adicionar Botões de Linguagens
 
@@ -890,8 +991,18 @@ Resulatado:
 
 ## [Ver mais...](https://github.com/hcadeveloper/markdown-badges/)
 
-<hr>
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
 
 <p align='center'>
-<a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a> • <a href='#6-como-adicionar-texto-de-refer%C3%AAncia'>Ir ao meio</a> • <a href='https://docs.github.com/' taget='_blanck'>Fonte da Documentação</a>
+<a href='#6-como-adicionar-texto-de-refer%C3%AAncia'>Ir ao meio</a> • <a href='https://docs.github.com/' taget='_blanck'>Fonte da Documentação</a>
 </p>
+
+<a href='#fundo'></a>
