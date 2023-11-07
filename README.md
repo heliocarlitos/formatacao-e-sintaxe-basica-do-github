@@ -118,7 +118,7 @@ Exemplo
 | Riscado e Negrito |  `~~ ~~` e `** **`   |  `~~**Texto Riscado e Negrito**~~*`   | ~~**Texto Riscado e Negrito**~~*   |
 
 
-## Como Alinhamento de Texto, Imagens ou GIF
+## Como Alinhar Texto, Imagens ou GIF
 
 Para alinha qualquer conteúdo à esquerda, no centro ou à direita você deve adicionar o seu conteúdo dentro da tag `<div>` do HTML com a propriedade do CSS `align` e o valor `left` para esquerda. `center` para centralizar e `right` para direita.
 
