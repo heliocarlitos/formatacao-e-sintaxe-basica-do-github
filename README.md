@@ -106,7 +106,8 @@ Resultado:
 | Sup     |  `<sup> </sup>`      |  `Texto <sup>sup</sup>`  | Texto <sup>sup</sup> |
 | Sub     |  `<sub> </sub>`      |  `Texto <sub>sup</sub>`  | Texto <sub>sub</sub> |
 
-> [!NOTE]
+<br/>
+
 > Você também pode fazer combinações.
 
 Exemplo
@@ -117,6 +118,7 @@ Exemplo
 | Itálico e Riscado |  `* *` e `~~ ~~`     |  `*~~Texto em Itálico e Riscado~~*`   | *~~Texto em Itálico e Riscado~~*   |
 | Riscado e Negrito |  `~~ ~~` e `** **`   |  `~~**Texto Riscado e Negrito**~~*`   | ~~**Texto Riscado e Negrito**~~*   |
 
+<br/>
 
 ## Como Alinhar Texto, Imagens ou GIF
 
@@ -186,6 +188,35 @@ Este é um exemplo de um texto alinhado à Direita
 > Lembrando que você pode alinhar qualquer tipo de conteúdo (textos, imagens e GIF) desde que estejam dentro da `<div> </div>` e use a propriedade `align` com o seu respectivo valor `left`
 , `center` ou `right`
 
+<br/>
+
+## Como fazer quebra de linha
+
+Para fazer quebra de linhas você só precisa adicionar a tag do HTML `<br/>` onde quer passar passar para nova linha.
+
+Escrita:
+```
+Aqui o texto foi <br/> quebrado uma vesz
+```
+Resultado:
+
+Aqui o texto foi <br/> quebrado uma vesz
+
+<br/>
+
+Se você deseja quebrar a linha mais de uma vez é só repetira várias vezes a tag `<br/>`
+
+Escrita:
+
+```
+Aqui o texto foi <br/> <br/> quebrado duas vezes.
+```
+
+Resultado:
+
+Aqui o texto foi <br/> <br/> quebrado duas vezes.
+
+>  Ao adicionarmos dois `<br/>`, a primeira vez o texto pulou para nova linha, ao adicionar o segundo `<br/>` é adicionada uma linha em branco.
 
 ##
 
