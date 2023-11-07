@@ -86,6 +86,38 @@ Resultado:
 > [!NOTE]
 > Repare que o número de cardinais/jogo da velha define o tamanho/importância do título, quanto mais cardinal/jogo da velha tiver o título será menenor ou menos inportante.
 
+##
+
+<div align='center'>
+
+### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
+  
+</div>
+
+##
+
+## 2. Como Formatar Textos
+
+| Estilo  |     Código           |          Escrita         |        Resultado          |
+|  :---:  |      :---:           |           :---:          |        :---:         |
+| Negrito |  `** **` ou `__ __`  |  `**Texto em Negrito**`  | **Texto em Negrito** |
+| Itálico |  `* *` ou `_ _`      |  `_Texto em Itálico_`    | _Texto em Itálico_   |
+| Riscado |  `~~ ~~`             |  `~~Texto em Riscado~~`  | ~~Texto em Riscado~~ |
+| Sup     |  `<sup> </sup>`      |  `Texto <sup>sup</sup>`  | Texto <sup>sup</sup> |
+| Sub     |  `<sub> </sub>`      |  `Texto <sub>sup</sub>`  | Texto <sub>sub</sub> |
+
+> [!NOTE]
+> Você também pode fazer combinações.
+
+Exemplo
+| Estilo            |     Código           |          Escrita                      |        Resultado                   |
+|  :---:            |      :---:           |           :---:                       |        :---:                       |
+| Negrito e Itálico |  `** **` e `_ _`     |  `**_Texto em Negrito e Itálico_**`   | **_Texto em Negrito e Itálico_**   |
+| Negrito e Riscado |  `** **` e `~~ ~~`   |  `**~~Texto em Negrito e Riscado~~**` | **~~Texto em Negrito e Riscado~~** |
+| Itálico e Riscado |  `* *` e `~~ ~~`     |  `*~~Texto em Itálico e Riscado~~*`   | *~~Texto em Itálico e Riscado~~*   |
+| Riscado e Negrito |  `~~ ~~` e `** **`   |  `~~**Texto Riscado e Negrito**~~*`   | ~~**Texto Riscado e Negrito**~~*   |
+
+
 ## Como Alinhamento de Texto, Imagens ou GIF
 
 Para alinha qualquer conteúdo à esquerda, no centro ou à direita você deve adicionar o seu conteúdo dentro da tag `<div>` do HTML com a propriedade do CSS `align` e o valor `left` para esquerda. `center` para centralizar e `right` para direita.
@@ -154,36 +186,6 @@ Este é um exemplo de um texto alinhado à Direita
 > Lembrando que você pode alinhar qualquer tipo de conteúdo (textos, imagens e GIF) desde que estejam dentro da `<div> </div>` e use a propriedade `align` com o seu respectivo valor `left`
 , `center` ou `right`
 
-##
-
-<div align='center'>
-
-### <a href='#introdu%C3%A7%C3%A3o'>Ir ao topo</a>
-  
-</div>
-
-##
-
-## 2. Como Formatar Textos
-
-| Estilo  |     Código           |          Escrita         |        Resultado          |
-|  :---:  |      :---:           |           :---:          |        :---:         |
-| Negrito |  `** **` ou `__ __`  |  `**Texto em Negrito**`  | **Texto em Negrito** |
-| Itálico |  `* *` ou `_ _`      |  `_Texto em Itálico_`    | _Texto em Itálico_   |
-| Riscado |  `~~ ~~`             |  `~~Texto em Riscado~~`  | ~~Texto em Riscado~~ |
-| Sup     |  `<sup> </sup>`      |  `Texto <sup>sup</sup>`  | Texto <sup>sup</sup> |
-| Sub     |  `<sub> </sub>`      |  `Texto <sub>sup</sub>`  | Texto <sub>sub</sub> |
-
-> [!NOTE]
-> Você também pode fazer combinações.
-
-Exemplo
-| Estilo            |     Código           |          Escrita                      |        Resultado                   |
-|  :---:            |      :---:           |           :---:                       |        :---:                       |
-| Negrito e Itálico |  `** **` e `_ _`     |  `**_Texto em Negrito e Itálico_**`   | **_Texto em Negrito e Itálico_**   |
-| Negrito e Riscado |  `** **` e `~~ ~~`   |  `**~~Texto em Negrito e Riscado~~**` | **~~Texto em Negrito e Riscado~~** |
-| Itálico e Riscado |  `* *` e `~~ ~~`     |  `*~~Texto em Itálico e Riscado~~*`   | *~~Texto em Itálico e Riscado~~*   |
-| Riscado e Negrito |  `~~ ~~` e `** **`   |  `~~**Texto Riscado e Negrito**~~*`   | ~~**Texto Riscado e Negrito**~~*   |
 
 ##
 
