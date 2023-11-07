@@ -344,6 +344,21 @@ Resultado:
 
 Para acessar o meu perfil, click [aqui](https://github.com/heliocarlitos/)
 
+
+Se deseja adicionar um link em uma imagem você deve usar a tag de links do HTML `<a>` e a taga de imagens `<img>`
+
+Escrita:
+
+```
+<a href="ADICIONA-SEU-LINK-AQUI" target="_blank"><img src='ADICIONA-O-LINK-DA-IMAGEM-AQUI'/></a>
+```
+
+Resultado:
+
+<a href="javascript:void(0)" target="_blank"><img src='https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github/blob/main/Imagens/demo%20btn.png?raw=true'/></a>
+
+> Para o meu exemplo eu usei um link de uma imagem de um botão. Sem nenhum direccionamento para quando for clicado.
+
 ##
 
 <div align='center'>
@@ -380,11 +395,15 @@ Para tornar a imagem acessível a visitantes que estejam usando um leitor de tel
 
 Resultado:
 
+<div align='center'>
+  
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://drive.google.com/uc?export=download&id=1q0d4MZlvbrTCMlfCjCqOmfJVSyWpsNZO)">
-    <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://drive.google.com/uc?export=download&id=1Ml89yrlbzUQo2W_H5Wwc3Ztb0fjHVzVK)">
-    <img alt="HCA LOGO" src="https://drive.google.com/uc?export=download&id=1X5s5-XjKGK_TaEtCZKUpjzDG1vlhx45h">
+    <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github/blob/main/Imagens/demo%20img%20pc.png?raw=true)">
+    <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github/blob/main/Imagens/demo%20img%20pc.png?raw=true)">
+    <img alt="Imagem de PC" src="https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github/blob/main/Imagens/demo%20img%20pc.png?raw=true">
 </picture>
+
+</div>
 
 ##
 
