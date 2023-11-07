@@ -38,7 +38,7 @@ Quando eu comecei a usar o GitHub tinha muita dificuldade em formatar e organiza
 
 <div align='center'>
 
-### <a href='#' id='fundo'>Ir ao Fundo</a>
+### <a href='#fundo'>Ir ao Fundo</a>
   
 </div>
 
@@ -1005,4 +1005,4 @@ Resulatado:
 <a href='#6-como-adicionar-texto-de-refer%C3%AAncia'>Ir ao meio</a> • <a href='https://docs.github.com/' taget='_blanck'>Fonte da Documentação</a>
 </p>
 
-<a href='#fundo'></a>
+<a href='#' id='fundo'></a>
