@@ -763,7 +763,7 @@ Resulatado:
 
 ![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
 
-### [Ver todos markdown de badges...](https://github.com/hcadeveloper/markdown-badges/)
+### [Ver todos markdown de badges...](https://github.com/heliocarlitos/markdown-badges/blob/main/README.md)
 
 <p align='center'>
 <a href='https://docs.github.com/' taget='_blanck'>Fonte da Documentação</a>
