@@ -500,12 +500,12 @@ Resultado:
 </html>
 ```
 
-Se deseja colorir o seu código use o tema `ruby` depois das primeiras três crases:
+Se deseja colorir o seu código use o tema `ruby` ou a extensão da linguagem, depois das primeiras três crases:
 
 Escrita:
 
 ````
-```ruby
+```html
     <!doctype html>
     <html>
     <head>
@@ -522,7 +522,7 @@ Escrita:
 
 Resultado:
 
-```ruby
+```html
 <!doctype html>
 <html>
 <head>
