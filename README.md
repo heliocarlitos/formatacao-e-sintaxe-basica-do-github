@@ -271,7 +271,7 @@ Escrita:
        - António
 ```
 > [!NOTE]
-> Respeitando as identções.
+> Respeitando as identções. Tecla Tab 1x.
 
 Resultado:
 1. Nomes
